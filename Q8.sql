@@ -17,3 +17,5 @@ FROM
 	GROUP BY S.[kullaniciKod], K.[isim], K.[soyad]
 	) A
 WHERE A.rn = 1;
+
+--deneme
