@@ -18,4 +18,3 @@ FROM
 	) A
 WHERE A.rn = 1;
 
---deneme
